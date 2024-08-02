@@ -1,0 +1,40 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+
+}
+.zebra-stripes {
+  background: repeating-linear-gradient(
+    45deg,
+    #f0f0f0, /* Light stripe color */
+    #f0f0f0 5px,
+    #3e3a3a 10px, /* Dark stripe color */
+    #e0e0e0 10px
+  );
+}
+.borderradius{
+  border-radius: 25px
+}
+.fonurbanist{
+
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+}
+.bg-zebra {
+  background: repeating-linear-gradient(
+    45deg,
+    #f0f0f0,
+    #f0f0f0 10px,
+    #ffffff 10px,
+    #ffffff 20px
+  );
+}
+
+
